@@ -1,0 +1,45 @@
+Record 
+Transaction Reference : 147674
+Description: Subscription from Peter Dekker
+Record 
+Transaction Reference : 135607
+Description: Subscription from Peter Theuﬂ
+Record 
+Transaction Reference : 169639
+Description: Tickets for Rik de Vries
+Record 
+Transaction Reference : 105549
+Description: Flowers from Peter de Vries
+Record 
+Transaction Reference : 150438
+Description: Tickets from Richard de Vries
+Record 
+Transaction Reference : 172833
+Description: Tickets for Willem Theuﬂtæ
+
+failed records
+Record
+Transaction Reference : 130498
+Account Number : NL69ABNA0433647324
+Description  : Tickets for Peter Theu√ü
+startBalance : 26.98
+EndBalance : 18.78
+End Balance : 46.76tΩ
+
+failed records
+Record
+Transaction Reference : 167875
+Account Number : NL93ABNA0585619023
+Description  : Tickets from Erik de Vries
+startBalance : 5429
+EndBalance : -939
+End Balance : 6368t∫
+
+failed records
+Record
+Transaction Reference : 165102
+Account Number : NL93ABNA0585619023
+Description  : Tickets for Rik Theu√ü
+startBalance : 3980
+EndBalance : +1000
+End Balance : 4981
